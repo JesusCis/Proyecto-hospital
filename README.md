@@ -9,6 +9,8 @@ Proyecto de hospital de nutrición
  
 #Crear buil de produccion 
   npm run build
+  
+  c
 
 
 
